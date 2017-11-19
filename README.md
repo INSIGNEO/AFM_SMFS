@@ -4,7 +4,7 @@ Matlab coding for AFM SMFS raw data post-processing > localisation and classific
 This repository contains Matlab codes to process Atomic Force Micoroscopy raw single molecule force spectroscopy data.
 In the present context, cantilevers were functionalised to target hyaluronic acid molecules on live cells. 
 This data processing allows for distinguishing between hyaluronic acide molecules anchored or not anchored to the cell cytoskeleton by looking at the probe/molecule rupture events.
-Similar methodologies were reported here: [Chu C. et al. 2013] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064187), [Sariisik E. et al. 2015] (http://www.sciencedirect.com/science/article/pii/S0006349515007857?via%3Dihub)
+Similar methodologies were reported here: [Chu C. et al. 2013](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064187), [Sariisik E. et al. 2015](http://www.sciencedirect.com/science/article/pii/S0006349515007857?via%3Dihub)
 
 #### Raw data
 The raw data are force-spectroscopy .txt files from AFM experiments. They contain four columns: cantilever height [m], cantilever vertical deflection [N], series time [s], segment time [s].
