@@ -6,6 +6,8 @@ In the present context, cantilevers were functionalized to target hyaluronic aci
 This data processing allows for distinguishing between hyaluronic acid molecules anchored or not anchored to the cell cytoskeleton by looking at the probe/molecule rupture events.
 Similar methodologies were reported here: [Chu C. et al. 2013](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064187), [Sariisik E. et al. 2015](http://www.sciencedirect.com/science/article/pii/S0006349515007857?via%3Dihub)
 
+All codes were tested on Matlab R2016a version
+
 #### Raw data
 The raw data are force-spectroscopy .txt files from AFM experiments. They contain four columns: cantilever height [m], cantilever vertical deflection [N], series time [s], segment time [s].
 All the experiments in this context were carried out with a Nanowizard 3 microscope from JPK. The built-in software provide .txt files in this form (comments are preceded by #)
